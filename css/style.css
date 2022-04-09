@@ -1,0 +1,20 @@
+/* cores do projeto: 
+    #c1121f; #003049; #fdf0d5;
+    #d9e8f5; #304269; #f26101;
+    
+Em uso: #cfcdb4; #6d8ead; #1f3447; 
+    
+*/
+
+.navbar {
+    background-color: #cfcdb4;
+}
+h1 {
+    background-color: #6d8ead;
+    color: #fdf0d5;
+}
+
+#quem-somos {
+    background-color: #1f3447;
+    color: white;
+}
