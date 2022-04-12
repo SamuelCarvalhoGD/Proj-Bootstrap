@@ -1,20 +1,53 @@
 /* cores do projeto: 
     #c1121f; #003049; #fdf0d5;
-    #d9e8f5; #304269; #f26101;
-    
+
+    red -> #F55353; #FD5D5D; #B33030;
+    green -> #066163; #65C18C; #008E89;
+    sand -> #CDBE78; #E4E9BE; #DAB88B;
+    dark -> #203239; #383838; #141E27;
+    orange -> #E45826; #f26101; FF4C29;
+   
 Em uso: #cfcdb4; #6d8ead; #1f3447; 
+        #d9e8f5; #304269; #f26101;
     
 */
+body {
+    font-family: "Lucida Grande", "Courier New", Verdana, sans-serif;
+    line-height: 1.6;
+}
 
 .navbar {
     background-color: #cfcdb4;
+
 }
-h1 {
+h3 {
     background-color: #6d8ead;
-    color: #fdf0d5;
+    color: #cfcdb4;
 }
 
-#quem-somos {
+.qm-sms {
     background-color: #1f3447;
+    color: #cfcdb4;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.parceria {
+    background-color: #304269;
+}
+
+img {
+    padding: 5px;
+}
+
+#servicos {
+   background-color: #E45826;
+}
+
+.bg-footer{
+    background-color: black;
     color: white;
 }
